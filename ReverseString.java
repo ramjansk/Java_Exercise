@@ -1,4 +1,4 @@
- //java program to ReverseString using StringBuilder
+//java program to ReverseString using StringBuilder
 import java.lang.*;
 import java.io.*;
 import java.util.*;
